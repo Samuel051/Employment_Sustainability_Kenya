@@ -1,0 +1,16 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# R
+.RData
+.Rhistory
+.Rproj.user/
+
+# VS Code
+.vscode/
+
+# OS / temporary files
+.DS_Store
+Thumbs.db

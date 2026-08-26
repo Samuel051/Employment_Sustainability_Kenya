@@ -1,0 +1,9 @@
+variable,first_valid_year,last_valid_year,valid_observations,missing_observations
+unemployment_ilo,1991,2025,35,0
+gdp_growth,1991,2025,35,0
+inflation,1991,2025,35,0
+investment_gfcf,1991,2025,35,0
+hdi,1991,2023,33,2
+labour_participation,1991,2025,35,0
+Employment_to_population,1991,2025,35,0
+youth_neet_rate,2005,2025,21,14
