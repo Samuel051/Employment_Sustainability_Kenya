@@ -36,7 +36,7 @@ Additional indicators are retained in the master dataset for contextual analysis
 
 - `Data/` — raw, processed and final datasets
 - `R/` — statistical and econometric analysis
-- `src/` — Python data extraction scripts
+- `src/` — data extraction scripts and econometric implementations
 - `outputs/` — research outputs and figures
 - `docs/` — research documentation
 
@@ -47,3 +47,21 @@ The analysis will include descriptive statistics, time-series diagnostics, stati
 ## Status
 
 Data extraction and initial descriptive analysis completed. Econometric analysis in progress.
+
+## Structural-break unit-root test
+
+`R/07_break_unit_root.R` runs a one-break Lee--Strazicich minimum LM test
+(Model C: level and trend break) for the project's five 1991--2025 annual
+series. The script asserts the intended 35-observation window, uses a
+parsimonious fixed zero-lag augmentation, and writes a compact table to
+`outputs/tables/lee_strazicich_one_break_results.csv`.
+
+The focused implementation in `src/econometrics/` is adapted from Johannes
+Lips' GPL-3.0 implementation. Its attribution notice and full GPL-3.0 license
+are retained beside the source.
+
+`R/08_bai_perron_breaks.R` provides the complementary Bai--Perron trend-regime
+diagnostic. With this 35-observation annual sample it limits selection to zero,
+one or two breaks and requires seven observations per regime. The selected
+break dates are not unit-root conclusions; they are compared with the
+historical candidate periods before ARDL modelling.

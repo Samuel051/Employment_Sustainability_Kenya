@@ -1,0 +1,4 @@
+variable,observations_after_difference,adf_statistic,adf_p_value,pp_statistic,pp_p_value,kpss_level_statistic,kpss_level_p_value,preliminary_decision
+unemployment_ilo,34,-2.6401,0.325,-12.7422,0.3107,0.2231,0.1,Mixed evidence; investigate structural breaks and lag sensitivity
+investment_gfcf,34,-3.5127,0.058,-29.7185,0.01,0.1087,0.1,Mixed evidence; investigate structural breaks and lag sensitivity
+labour_participation,34,-2.3784,0.4264,-12.6268,0.3182,0.2073,0.1,Mixed evidence; investigate structural breaks and lag sensitivity

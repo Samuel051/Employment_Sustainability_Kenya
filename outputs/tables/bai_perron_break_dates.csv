@@ -1,0 +1,7 @@
+variable,break_number,previous_regime_end_year,new_regime_start_year
+unemployment_ilo,1,2011,2012
+unemployment_ilo,2,2018,2019
+inflation,1,2002,2003
+investment_gfcf,1,2004,2005
+investment_gfcf,2,2015,2016
+labour_participation,1,2017,2018

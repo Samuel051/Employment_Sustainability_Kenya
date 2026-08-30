@@ -1,0 +1,10 @@
+candidate_period,event_or_policy_date,event_or_policy,potential_transmission_window,variables_potentially_affected,interpretation_status
+1991-1993,1991-1993,Return to multiparty politics and early-1990s political and economic disruption,1991-1995,GDP growth; inflation; unemployment; investment; labour participation,Candidate period; not statistically confirmed
+1992-1995,1992,"Early-1990s economic and political disruption, including the Goldenberg-era crisis, donor funding concerns, and ethnic clashes",1992-1995,GDP growth; inflation; unemployment; investment,Candidate period; not statistically confirmed
+2007-2009,2007,2007 general election and subsequent post-election violence,2007-2009,GDP growth; unemployment; investment; labour participation,Candidate period; not statistically confirmed
+2010-2013,2010,Promulgation of the 2010 Constitution and associated institutional transition,2010-2013,GDP growth; investment; labour participation,Candidate period; not statistically confirmed
+2014-2018,2014,Observed investment/GFCF turning point and subsequent decline,2014-2018,Investment,Candidate period; not statistically confirmed
+2016-2019,2016,Introduction of the interest-rate cap and possible implications for credit and investment,2016-2019,Investment; GDP growth,Candidate period; not statistically confirmed
+2019-2021,2019,Repeal of the interest-rate cap and possible adjustment in credit and investment conditions,2019-2021,Investment; GDP growth,Candidate period; not statistically confirmed
+2020-2021,2020,"COVID-19 pandemic, economic restrictions, and major economic disruption",2020-2021,GDP growth; unemployment; labour participation; investment,Candidate period; not statistically confirmed
+2021-2023,2021,Post-COVID economic recovery,2021-2023,GDP growth; unemployment; labour participation,Candidate period; not statistically confirmed

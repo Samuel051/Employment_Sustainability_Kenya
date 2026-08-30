@@ -1,0 +1,6 @@
+variable,observations,ls_break_year,ls_break_fraction,ls_t_statistic,ls_critical_5pct,ls_decision,bp_breaks,bp_break_transitions,bp_supF_statistic,bp_supF_p_value,bp_evidence,overall_structural_break_evidence
+unemployment_ilo,35,2016,0.743,-2.4327,-4.459,Do not reject unit root,2,2011/2012; 2018/2019,336.5256,< 1e-04,Evidence of at least one trend-regime change,Evidence of trend-regime change; LS does not confirm break-stationarity
+gdp_growth,35,2003,0.371,-6.4452,-4.486,Reject unit root (break-stationary),0,None,6.2163,0.334,No 5% evidence of a trend-regime change,LS supports break-stationarity; Bai-Perron finds no strong trend-regime change
+inflation,35,1996,0.171,-4.5045,-4.479,Reject unit root (break-stationary),1,2002/2003,15.5395,0.007402,Evidence of at least one trend-regime change,Strong evidence of structural change
+investment_gfcf,35,2010,0.571,-3.7555,-4.503,Do not reject unit root,2,2004/2005; 2015/2016,23.6889,0.000175,Evidence of at least one trend-regime change,Evidence of trend-regime change; LS does not confirm break-stationarity
+labour_participation,35,2016,0.743,-2.4011,-4.459,Do not reject unit root,1,2017/2018,391.6456,< 1e-04,Evidence of at least one trend-regime change,Evidence of trend-regime change; LS does not confirm break-stationarity

@@ -1,0 +1,6 @@
+variable,observations,specification,max_breaks_considered,min_segment_observations,bic_selected_breaks,break_transitions,supf_statistic,supf_p_value,structural_change_evidence
+unemployment_ilo,35,value ~ linear time trend,2,7,2,2011/2012; 2018/2019,336.5256,< 1e-04,Evidence of at least one trend-regime change
+gdp_growth,35,value ~ linear time trend,2,7,0,None,6.2163,0.334,No 5% evidence of a trend-regime change
+inflation,35,value ~ linear time trend,2,7,1,2002/2003,15.5395,0.007402,Evidence of at least one trend-regime change
+investment_gfcf,35,value ~ linear time trend,2,7,2,2004/2005; 2015/2016,23.6889,0.000175,Evidence of at least one trend-regime change
+labour_participation,35,value ~ linear time trend,2,7,1,2017/2018,391.6456,< 1e-04,Evidence of at least one trend-regime change

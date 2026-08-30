@@ -1,0 +1,6 @@
+variable,observations,adf_statistic,adf_p_value,pp_statistic,pp_p_value,kpss_level_statistic,kpss_level_p_value,kpss_trend_statistic,kpss_trend_p_value,preliminary_decision
+unemployment_ilo,35,-1.2941,0.8472,-3.5183,0.907,0.5878,0.0237,0.2018,0.0153,Non-stationary in levels; test first difference
+gdp_growth,35,-3.2598,0.094,-30.4123,0.01,0.6203,0.0208,0.1239,0.0908,Mixed evidence; investigate further
+inflation,35,-5.4945,0.01,-18.1178,0.0591,0.4372,0.0611,0.0913,0.1,Mixed evidence; investigate further
+investment_gfcf,35,-1.2811,0.8522,-13.0104,0.2957,0.3632,0.093,0.1343,0.0717,Mixed evidence; investigate further
+labour_participation,35,-1.0405,0.9177,-3.6124,0.9029,0.4516,0.0549,0.1912,0.0193,Mixed evidence; investigate further

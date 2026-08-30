@@ -1,0 +1,6 @@
+note_type,note
+Purpose,The candidate periods provide historically and economically motivated periods for subsequent structural-break investigation.
+Interpretation,A candidate period does not imply that a structural break actually occurred.
+Timing,"The statistical break may occur before, during, or after the identified event or policy because economic effects can be transmitted with lags."
+Exhaustiveness,"The candidate periods are illustrative rather than exhaustive; other policies, institutional changes, domestic developments, and external shocks may also have affected the variables."
+Causality,Identification of a statistical break does not by itself establish that the associated event or policy caused the change.

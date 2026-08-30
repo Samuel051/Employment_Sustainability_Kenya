@@ -1,0 +1,6 @@
+variable,observations,model,lm_t_statistic,estimated_break_year,break_fraction,lags,critical_value_5pct,decision_5pct
+unemployment_ilo,35,Model C: level + trend break,-2.4327,2016,0.743,0,-4.459,Do not reject unit root
+gdp_growth,35,Model C: level + trend break,-6.4452,2003,0.371,0,-4.486,Reject unit root (break-stationary)
+inflation,35,Model C: level + trend break,-4.5045,1996,0.171,0,-4.479,Reject unit root (break-stationary)
+investment_gfcf,35,Model C: level + trend break,-3.7555,2010,0.571,0,-4.503,Do not reject unit root
+labour_participation,35,Model C: level + trend break,-2.4011,2016,0.743,0,-4.459,Do not reject unit root
