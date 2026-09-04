@@ -1,0 +1,11 @@
+test,variable,statistic,p_value,decision,significance_level,sample_start,sample_end,observations
+Variance Inflation Factor,gdp_growth,1.5646310662465996,NA,No multicollinearity concern,0.05,1991,2025,35
+Variance Inflation Factor,inflation,1.3496224826685617,NA,No multicollinearity concern,0.05,1991,2025,35
+Variance Inflation Factor,investment_gfcf,1.3582214142479299,NA,No multicollinearity concern,0.05,1991,2025,35
+Variance Inflation Factor,labour_participation,1.157011497033883,NA,No multicollinearity concern,0.05,1991,2025,35
+Breusch-Godfrey serial correlation,ARDL residuals,0.43377294706973063,0.5101434041758819,Fail to reject H0: no serial correlation,0.05,1991,2025,35
+Breusch-Pagan heteroskedasticity,ARDL residuals,14.776621567252521,0.09725739436540226,Fail to reject H0: homoskedasticity,0.05,1991,2025,35
+Jarque-Bera residual normality,ARDL residuals,0.6737890971372067,0.7139841265812488,Fail to reject H0: residuals are normally distributed,0.05,1991,2025,35
+Ramsey RESET specification,ARDL model,6.072484307331459,0.00794429920528235,Reject H0: possible functional-form/specification issue,0.05,1991,2025,35
+Recursive CUSUM,ARDL coefficient stability,0.3998511916456568,0.8443510439233561,Fail to reject H0: parameters are stable,0.05,1991,2025,35
+OLS-based CUSUM,ARDL coefficient stability,0.9544047006607908,0.3221078231905128,Fail to reject H0: parameters are stable,0.05,1991,2025,35

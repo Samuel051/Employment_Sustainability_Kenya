@@ -1,0 +1,5 @@
+variable,baseline_estimate,baseline_p,bic_estimate,bic_p,baseline_direction,bic_direction,sign_consistent,baseline_significance,bic_significance,magnitude_change_pct,significance_consistent,interpretation
+GDP growth,-0.024295325,0.009728418,-0.02301455,0.01023547,Negative,Negative,TRUE,Significant at 1%,Significant at 5%,5.271693216699089,FALSE,Negative and statistically significant in both specifications
+Inflation,0.001418717,0.5302722,0.001114335,0.6075977,Positive,Positive,TRUE,Not significant,Not significant,-21.454736920753046,TRUE,Positive but statistically insignificant in both specifications
+Investment (GFCF),0.033554265,0.0100558,0.039076387,0.001158294,Positive,Positive,TRUE,Significant at 5%,Significant at 1%,16.457287918540302,FALSE,Positive and statistically significant in both specifications
+Labour participation,-0.348436823,2.763269e-13,-0.348069593,1.384603e-13,Negative,Negative,TRUE,Significant at 1%,Significant at 1%,0.10539356800414754,TRUE,Negative and highly statistically significant in both specifications
